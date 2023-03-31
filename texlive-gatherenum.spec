@@ -1,6 +1,6 @@
 Name:		texlive-gatherenum
 Version:	52209
-Release:	1
+Release:	2
 Summary:	A crossover of align* and enumerate
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gatherenum

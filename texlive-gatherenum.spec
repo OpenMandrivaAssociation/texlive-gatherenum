@@ -3,7 +3,7 @@ Version:	67201
 Release:	1
 Summary:	A crossover of align* and enumerate
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gatherenum
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/gatherenum
 License:	gpl3+
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gatherenum.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gatherenum.doc.r%{version}.tar.xz
